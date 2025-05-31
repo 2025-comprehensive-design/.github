@@ -1,4 +1,3 @@
-<div align = center>
 # Enhancing Diffusion based Music Generation performance with LoRA
 
 
@@ -11,6 +10,8 @@
 
 <sup>2</sup> **Department of Computer Science and AI**, Dongguk University-Seoul, Seoul 04620, Republic of Korea  
 📧 jounghyunjet@dgu.ac.kr (J.I.); sung@dongguk.edu (Y.S.)
+
+<div align = center>
 
 | 이름             | 역할  | GitHub                          |
 |------------------|-------|----------------------------------|
