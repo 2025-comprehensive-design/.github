@@ -1,4 +1,6 @@
+<div align = center>
 # Enhancing Diffusion based Music Generation performance with LoRA
+
 
 ### 2025 Comprehensive Design
 ---
@@ -16,3 +18,5 @@
 | 대운 한          | 팀원  | [github.com/daewoonhan](https://github.com/daewoonhan)   |
 | 건희 김          | 팀원  | [github.com/Geon-hui](https://github.com/Geon-hui)       |
 | 야기시타 쇼키    | 팀원  | [github.com/elecshoki](https://github.com/electricshoki)     |
+
+</div>
