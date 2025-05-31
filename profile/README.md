@@ -15,9 +15,9 @@
 
 | 이름             | 역할  | GitHub                          |
 |------------------|-------|----------------------------------|
-| 선표 김          | 팀장  | [github.com/Roflaff](https://github.com/Roflaff)         |
-| 대운 한          | 팀원  | [github.com/daewoonhan](https://github.com/daewoonhan)   |
-| 건희 김          | 팀원  | [github.com/Geon-hui](https://github.com/Geon-hui)       |
+| 김선표          | 팀장  | [github.com/Roflaff](https://github.com/Roflaff)         |
+| 한대운          | 팀원  | [github.com/daewoonhan](https://github.com/daewoonhan)   |
+| 김건희          | 팀원  | [github.com/Geon-hui](https://github.com/Geon-hui)       |
 | 야기시타 쇼키    | 팀원  | [github.com/elecshoki](https://github.com/electricshoki)     |
 
 </div>
